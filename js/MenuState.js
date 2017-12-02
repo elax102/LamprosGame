@@ -3,7 +3,7 @@ var MenuState = function() {};
 
 MenuState.prototype = {
 	preload: function() {
-		game.load.image('logo', 'phaser.png');
+		game.load.image('logo', 'assets/phaser.png');
 	},
 
 	create: function() {
