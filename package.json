@@ -1,0 +1,11 @@
+{
+  "name": "lamprosgame",
+  "version": "1.0.0",
+  "description": "the more you have the worse it is",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
